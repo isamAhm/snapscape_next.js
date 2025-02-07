@@ -1,0 +1,1 @@
+# snapscape_next.js
